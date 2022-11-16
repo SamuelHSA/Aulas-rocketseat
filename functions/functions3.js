@@ -1,10 +1,10 @@
-/* function honda(moto1, moto2, moto3) {
+ function honda(moto1, moto2, moto3) {
     return 'Motos honda: ' + moto1 + moto2 + moto3
 }
 
 const moto = honda('Titan ', ' Biz ', ' Xre')
 
-    console.log(moto) */
+    console.log(moto) 
 
 //-------------------------------------------------------------//
 
@@ -34,4 +34,3 @@ sayMyName(
 ) */
 
 //-------------------------------------------------------------//
-
