@@ -15,7 +15,7 @@ resultado()
 
 if(notas < 30) {
     console.log('Reprovado')
-} if(notas >= 30 && notas <= 59) {
+}if(notas >= 30 && notas <= 59) {
     console.log('Você está de recuperação!')
 }else if(notas >= 60) {
     console.log('Aprovado')
